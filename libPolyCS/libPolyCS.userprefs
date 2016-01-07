@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="libPolyCS/libPolyCS.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="libPolyCS/SCoP.cs">
+    <Files>
+      <File FileName="libPolyCS/PolyCS.cs" Line="1" Column="1" />
+      <File FileName="libPolyCS/SCoP.cs" Line="42" Column="20" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
